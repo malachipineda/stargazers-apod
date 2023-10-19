@@ -3,7 +3,7 @@ Each day, make contact with NASA themsleves and they'll send you a beautiul phot
 
 **Link to project:** https://stargazers-apod.netlify.app/
 
-[![Image from Gyazo](https://i.gyazo.com/03abf436b749145e5bd93277ab7b3bcd.gif)](https://gyazo.com/03abf436b749145e5bd93277ab7b3bcd)
+[![Image from Gyazo](https://i.gyazo.com/03abf436b749145e5bd93277ab7b3bcd.gif)]
 
 ## How It's Made:
 
