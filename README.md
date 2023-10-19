@@ -3,7 +3,7 @@ Each day, make contact with NASA themsleves and they'll send you a beautiul phot
 
 **Link to project:** https://stargazers-apod.netlify.app/
 
-[![Two-Face flipping coin gif](https://i.gyazo.com/e269098c66c3727255eba04aa7d7c7ae.gif)](https://gyazo.com/e269098c66c3727255eba04aa7d7c7ae)
+[![Image from Gyazo](https://i.gyazo.com/b9355f51b24d3c049b473152dff5fcf0.gif)](https://gyazo.com/b9355f51b24d3c049b473152dff5fcf0)
 
 ## How It's Made:
 
